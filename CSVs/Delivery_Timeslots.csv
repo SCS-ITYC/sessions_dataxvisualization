@@ -1,0 +1,6 @@
+DeliveryTimeslot,TimeslotID
+Between 10:00 am and 2:00 pm,A
+Between 2:00 pm and 6:00 pm,B
+Between 6:00 pm and 10:00 pm,C
+Between 6:00 pm and 5:59 pm (next day),D
+Unknown,E
